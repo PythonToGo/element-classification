@@ -1,0 +1,17 @@
+Pillow
+matplotlib
+opencv-python
+opencv-python-headless
+numpy
+pandas
+seaborn
+glob2
+scikit-learn
+imblearn
+pyyaml
+
+# GPU mac
+tensorflow-metal==1.2.0
+tensorflow-macos==2.16.2
+keras==3.9.0
+certifi

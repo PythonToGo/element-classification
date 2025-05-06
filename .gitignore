@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store*
+
+# virtualenv
+venv/
+__pycache__/
+
+# saved models
+models/
+
+# dataset
+Dataset/
+
+# segmentation images
+seg_images/
