@@ -9,7 +9,6 @@ __pycache__/
 models/
 
 # dataset
-Dataset/
 
 # segmentation images
 seg_images/
